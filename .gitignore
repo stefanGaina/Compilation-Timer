@@ -1,0 +1,16 @@
+# VSCode settings
+.vscode
+
+# Objects
+obj
+*.o
+
+# Executables
+compilation-timer/bin
+
+# Unit-test
+coverage_report
+*.gcno
+*.gcda
+*.gcov
+*.info
